@@ -3,8 +3,9 @@ __pycache__/
 *.pyc
 weights/
 out/
-data/raw/
-!data/raw/README.md
+data/
 .DS_Store
 *.egg-info/
 .cache/
+.cozmo_rgb/
+.claude/
