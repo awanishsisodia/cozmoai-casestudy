@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+weights/
+out/
+data/raw/
+!data/raw/README.md
+.DS_Store
+*.egg-info/
+.cache/
